@@ -1,16 +1,16 @@
 import java.util.Scanner;
 
-public class Main {
+public class App {
     public static void main(String[] args) {
         boolean stat; int opcao, ticket;
         Maquina maquina = new Maquina(5);
-        Scanner sc = new Scanner(System.in);
+        Scanner entrada = new Scanner(System.in);
         do {
             System.out.println("[1] Emitir Ticket");
             System.out.println("[2] Liberar Ticket");
             System.out.println("[3] Sair");
             System.out.print("Escolha uma Opção: ");
-            opcao = Integer.parseInt(sc.next());
+            opcao = Integer.parseInt(entrada.next());
             switch (opcao) {
                 case 1 -> {
                     ticket = maquina.emitir();
@@ -22,7 +22,7 @@ public class Main {
                 }
                 case 2 -> {
                     System.out.print("Número do Ticket: ");
-                    ticket = Integer.parseInt(sc.next());
+                    ticket = Integer.parseInt(entrada.next());
                     stat = maquina.liberar(ticket);
                     if (stat) {
                         System.out.printf("Vaga [%d] Liberada!\n", ticket);
@@ -37,5 +37,6 @@ public class Main {
             }
             System.out.println();
         } while (opcao != 3);
+        entrada.close();
     }
 }
