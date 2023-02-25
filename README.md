@@ -27,3 +27,7 @@ Minhas soluções das atividades de laboratórios e trabalhos em java de Linguag
 ### Laboratório 5: Geometry
 
 > Implementar uma `interface` com métodos para calcular perímetro e área de uma forma geométrica genérica e classes para representa um círculo, quadrilátero, quadrado e retângulo.
+
+### Laboratório 6 e 7: Agenda
+
+> Implementar uma agenda utilizando um `Hashtable` que usa o nome do contato como chave e uma `LinkedList` de contatos como valor. Um contato possui nome, email e telefone e todos seus dados podem ser alterados.
