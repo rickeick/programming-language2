@@ -20,7 +20,7 @@ Minhas soluções das atividades de laboratórios e trabalhos em java de Linguag
 
 > Implementar um programa para modelar e calcular a tributação sobre a renda de pessoas físicas (identificadas pelo CPF) e pessoas jurídicas (identificadas pelo CNPJ).
 
-### Prova 1: SCOD
+### Trabalho 1: SCOD
 
 > Implementar o Sistema de Coleta e Organização de Doações (SCOD) que permite o cadastro de diversos tipos de doações e sua distribuição em campanhas de ONGs em função do tipo da doação e do prazo da campanha.
 
@@ -31,3 +31,11 @@ Minhas soluções das atividades de laboratórios e trabalhos em java de Linguag
 ### Laboratório 6 e 7: Agenda
 
 > Implementar uma agenda utilizando um `Hashtable` que usa o nome do contato como chave e uma `LinkedList` de contatos como valor. Um contato possui nome, email e telefone e todos seus dados podem ser alterados.
+
+### Laboratório 8: Statistics
+
+> Implementar um programa que ler os dados do campeonato brasileiro de futebol e responda algumas perguntas estatísticas dos clubes, gols e arenas. ([fonte dos dados](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol))
+
+### Trabalho 2: SIGAE
+
+> Implementar o Sistema Integrado de Gestão e Acompanhamento de Egresos (SIGAE) com uma interface gráfica. O SIGAE possui um usuário administrador que cadastra os cordenadores dos cursos que podem cadastrar, consultar e alterar dados dos egresos além de poder gerar três tipos de relatórios em pdf com os dados dos egressos filtrados e ordenados.
