@@ -1,6 +1,6 @@
-# Activities-Java
+# Programming Language II
 
-Minhas soluções das atividades de laboratórios e trabalhos em java de Linguagem de Progrmação II, professor Geraldo Braz, curso de Ciência da Computação - UFMA.
+Minhas soluções das atividades de laboratórios e trabalhos em Java de Linguagem de Programação II, professor Geraldo Braz, curso de Ciência da Computação - UFMA.
 
 ## Atividades
 
