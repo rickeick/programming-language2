@@ -20,6 +20,10 @@ Minhas soluções das atividades de laboratórios e trabalhos em Java de Linguag
 
 > Implementar um programa para modelar e calcular a tributação sobre a renda de pessoas físicas (identificadas pelo CPF) e pessoas jurídicas (identificadas pelo CNPJ).
 
+### Desafio 1: Foxes & Rabbits
+
+> Implementar um simulador onde raposas e coelhos sejam representados em um campo de modo que possam correr (no caso dos coelhos), caçar (no caso das raposas), se reproduzir e morrer. Considerando algumas simplificações viáveis nessas ações.
+
 ### Trabalho 1: SCOD
 
 > Implementar o Sistema de Coleta e Organização de Doações (SCOD) que permite o cadastro de diversos tipos de doações e sua distribuição em campanhas de ONGs em função do tipo da doação e do prazo da campanha.
